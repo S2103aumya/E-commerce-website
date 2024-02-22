@@ -135,6 +135,7 @@ nav a:hover{
     .right-aligned{
         height:35%;
         top:65%;
+    }
 }
 .cards{
     display: flex;
