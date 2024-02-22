@@ -124,14 +124,17 @@ nav a:hover{
         top:17%;
         bottom:auto;
     }
-}
-@media screen and (max-width:340px){
     .main-text h1{
         font-size: 220%;
     }
     .main-text h2{
         font-size: 200%;
     }
+}
+@media screen and (max-width:340px){
+    .right-aligned{
+        height:35%;
+        top:65%;
 }
 .cards{
     display: flex;
