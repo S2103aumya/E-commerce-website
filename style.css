@@ -48,10 +48,10 @@ nav a:hover{
         align-items: center;
         justify-content: center;
         position: absolute;
-        top: 80px;
+        top: 83px;
         background-color:#ED8494;
         width: 100%;
-        height: 200px;
+        height: 220px;
         gap:20px;
         text-align: center;
         padding: 0px;
@@ -123,6 +123,14 @@ nav a:hover{
         right: 0;
         top:18%;
         bottom:auto;
+    }
+}
+@media screen and (max-width:340px){
+    .main-text h1{
+        font-size: 220%;
+    }
+    .main-text h2{
+        font-size: 200%;
     }
 }
 .cards{
